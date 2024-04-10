@@ -61,7 +61,7 @@
           "type": "heading",
           "settings": {
             "heading": "High Quality Herbal Tinctures",
-            "heading_size": "h2"
+            "heading_size": "h0"
           }
         }
       },
@@ -106,6 +106,36 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_LReeFD": {
+      "type": "rich-text",
+      "blocks": {
+        "text_8XN4iH": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>OUR PHILOSOPHY   <\/strong><\/p>"
+          }
+        },
+        "heading_fLjBUj": {
+          "type": "heading",
+          "settings": {
+            "heading": "Connected to Nature",
+            "heading_size": "h1"
+          }
+        }
+      },
+      "block_order": [
+        "text_8XN4iH",
+        "heading_fLjBUj"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "scheme-5",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -143,8 +173,8 @@
         "column3"
       ],
       "settings": {
-        "title": "Connected to Nature",
-        "heading_size": "h1",
+        "title": "",
+        "heading_size": "h2",
         "image_width": "third",
         "image_ratio": "adapt",
         "columns_desktop": 3,
@@ -181,6 +211,7 @@
     "image_banner",
     "rich_text",
     "featured_collection",
+    "rich_text_LReeFD",
     "multicolumn",
     "featured_blog_VDKgUb"
   ]
