@@ -159,7 +159,7 @@
         "content_alignment": "left",
         "color_scheme": "scheme-5",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 80,
         "padding_bottom": 0
       }
     },
@@ -212,8 +212,8 @@
         "color_scheme": "scheme-5",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "padding_top": 52,
+        "padding_bottom": 80
       }
     },
     "featured_blog_VDKgUb": {
@@ -259,8 +259,8 @@
         "content_alignment": "center",
         "color_scheme": "scheme-4",
         "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 0,
+        "padding_bottom": 72
       }
     }
   },
