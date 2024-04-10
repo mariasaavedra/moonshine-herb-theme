@@ -178,9 +178,9 @@
           "background": "#9a9a84",
           "background_gradient": "",
           "text": "#121212",
-          "button": "#9a9a84",
+          "button": "#9f6539",
           "button_label": "#121212",
-          "secondary_button_label": "#9a9a84",
+          "secondary_button_label": "#9f6539",
           "shadow": "#121212"
         }
       }
