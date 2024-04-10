@@ -218,8 +218,11 @@
     },
     "featured_blog_VDKgUb": {
       "type": "featured-blog",
+      "custom_css": [
+        "h2 {text-align: center; margin: 0 auto;}"
+      ],
       "settings": {
-        "heading": "Blog posts",
+        "heading": "The Journal",
         "heading_size": "h1",
         "blog": "",
         "post_limit": 3,
